@@ -9,5 +9,15 @@
   "fp": 1841,
   "fn": 1564,
   "tp": 3586,
-  "n_test": 9823
+  "n_test": 9823,
+  "kernel": "rbf",
+  "hyperparameters": {
+    "kernel": "rbf",
+    "C": 1.0,
+    "gamma": "scale",
+    "cache_size": 1000
+  },
+  "fit_seconds": 398.5,
+  "n_support_vectors": 29876,
+  "n_train": 39288
 }
