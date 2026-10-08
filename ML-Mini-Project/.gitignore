@@ -1,0 +1,6 @@
+# raw Freddie Mac files are large - everyone keeps them locally
+data/raw/*.txt
+data/raw/*.zip
+venv/
+.ipynb_checkpoints/
+__pycache__/
